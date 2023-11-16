@@ -1,0 +1,59 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2023,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": [
+            "Chocolate Syrup",
+            "Peppermint Sprinkle",
+            "Vanilla Base"
+        ],
+        "image": "https://655655e4c2182b040df03905--javascriptlab4.netlify.app/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 350,
+        "type": "milshake-type ice-cream",
+        "ingredients": [
+            "Peach Syrup",
+            "Mango Chunks",
+            "Vanilla Base"
+        ],
+         "image": "https://655655e4c2182b040df03905--javascriptlab4.netlify.app/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "Strawberry Chunks",
+            "Sprinkles",
+            "Vanilla Base"
+        ],
+         "image": "https://655655e4c2182b040df03905--javascriptlab4.netlify.app/images/strawberry-sprinkle.svg"
+    },
+    {
+        "name": "Mango Flavor",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "Mango syrup",
+            "Sprinkles",
+            "Nango Base"
+        ],
+         "image": "https://655655e4c2182b040df03905--javascriptlab4.netlify.app/images/ice-cream-xtra1.svg"
+    },
+    {
+        "name": "banana ice-cream",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "chocolate Chunks",
+            "honey",
+            "banana+vanilla Base"
+        ],
+        "image": "https://655655e4c2182b040df03905--javascriptlab4.netlify.app/images/ice-cream-xtra2.svg"
+    }]
+}
